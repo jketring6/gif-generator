@@ -1,0 +1,38 @@
+header {
+	text-align: center;
+	font-family: Impact;
+	font-size: 120px;
+	color: white;
+}
+
+.userMeme {
+	margin: 10px;
+}
+
+#add-meme {
+	margin: 10px;
+}
+
+#meme-form {
+	margin: 10px;
+}
+
+#rightBox {
+	text-align: center;
+}
+
+body {
+	background-image: url(../images/background.jpg);
+}
+
+.panel-body {
+		background-color: black;
+}
+
+p {
+	color: white;
+}
+
+.gif {
+	margin: 10px;
+}
